@@ -13,7 +13,7 @@ public class AlphabetChecker {
             }
         }
 
-        if(alphabetSet.size() == 26) {
+        if(alphabetSet.size() == 25) {
             System.out.println("Yes, the string contains all the letters from the alphabet.");
         }
 
